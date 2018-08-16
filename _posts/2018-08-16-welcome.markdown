@@ -7,7 +7,7 @@ categories: jekyll update
 
 {% highlight python %}
 print("Assalamu'alaikum")
-print("Welcome to my hithub page :)")
+print("Welcome to my GitHub pages :)")
 {% endhighlight %}
 
 My name is Gunawan Ariyanto. I am a lecturer and researcher at [the Universitas Muhammadiyah Surakarta](http://www.ums.ac.id) Indonesia. I am currently living in New Zealand, taking a sabatical leave.
