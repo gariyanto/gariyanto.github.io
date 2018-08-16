@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+This is my programming blog. All stories related to coding will be here. I also write in wordpress for my personal experience at [https://gariyanto.wordpress.com](https://gariyanto.wordpress.com). Hope it will give benefits for all readers.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Gunawan Ariyanto. I am a lecturer and researcher at [the Universitas Muhammadiyah Surakarta](http://www.ums.ac.id) Indonesia. I am currently living in New Zealand, taking a sabatical leave.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I teach computer programming and do research in computer vision and machine learning. In addition to my full-time role as a lecturer, I have a strong passion for working in web and mobile apps development.  I am proficient in Python, Java and Web programming. 

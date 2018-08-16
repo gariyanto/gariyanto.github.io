@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome to My Website!"
+date:   2018-08-16 11:56:29 +1200
+categories: jekyll update
+---
+
+{% highlight python %}
+print("Assalamu'alaikum")
+print("Welcome to my hithub page :)")
+{% endhighlight %}
+
+My name is Gunawan Ariyanto. I am a lecturer and researcher at [the Universitas Muhammadiyah Surakarta](http://www.ums.ac.id) Indonesia. I am currently living in New Zealand, taking a sabatical leave.
+
+I teach computer programming and do research in computer vision and machine learning. In addition to my full-time role as a lecturer, I have a strong passion for working in web and mobile apps development.  I am proficient in Python, Java and Web programming. 
